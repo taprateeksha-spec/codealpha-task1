@@ -1,6 +1,6 @@
 import random
 
-words = ["cat", "python", "apple", "computer", "keyboard", "developer", "programming", "elephant"]
+words = ["cat", "python", "apple", "computer", "developer", "programming"]
 word = random.choice(words)
 
 guessed_letters = []
